@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BGTaskSchedulerPermittedIdentifiers</key>
+	<array>
+		<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	</array>
+	<key>CFBundleIconName</key>
+	<string>AppIcon</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string></string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.551065813788-tar3r8ge6gsnt1of02boo375drn2d96s</string>
+			</array>
+		</dict>
+	</array>
+	<key>GIDClientID</key>
+	<string>551065813788-tar3r8ge6gsnt1of02boo375drn2d96s.apps.googleusercontent.com</string>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
+	<key>NSCalendarsFullAccessUsageDescription</key>
+	<string>This app would like to add this event to your calendar.</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Dosis-Bold.ttf</string>
+		<string>Dosis-ExtraBold.ttf</string>
+		<string>Dosis-ExtraLight.ttf</string>
+		<string>Dosis-Light.ttf</string>
+		<string>Dosis-Medium.ttf</string>
+		<string>Dosis-Regular.ttf</string>
+		<string>Dosis-SemiBold.ttf</string>
+		<string>TiltNeon-Regular.ttf</string>
+	</array>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>fetch</string>
+		<string>processing</string>
+		<string>remote-notification</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>551065813788-tar3r8ge6gsnt1of02boo375drn2d96s.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.551065813788-tar3r8ge6gsnt1of02boo375drn2d96s</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCzDuRHYGe2j8rEomIRl4WEI129qQSPiBI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>551065813788</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.anthony.Micah-s-Backpack</string>
+	<key>PROJECT_ID</key>
+	<string>micah-s-backpack</string>
+	<key>STORAGE_BUCKET</key>
+	<string>micah-s-backpack.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:551065813788:ios:bf06ad4f2a40fa6ff1f0d9</string>
+</dict>
+</plist>

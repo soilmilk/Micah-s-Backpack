@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1912929D-767E-41BD-ABC7-9BFFA4902C09"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB5AE032-1353-467A-863A-4141418B3022"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Micah&apos;s Backpack/EventDetail.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "CustomDisclosureGroupStyle"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "966F0980-69F1-4A98-8DEE-53AFDF0D3DFE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Micah&apos;s Backpack/Firestore/EventManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "223"
+            endingLineNumber = "223"
+            landmarkName = "getAllUpdatedEvents()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "966F0980-69F1-4A98-8DEE-53AFDF0D3DFE - e8408a1bab7ba9a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Micah_s_Backpack.EventManager.getAllUpdatedEvents() async throws -&gt; Swift.Optional&lt;__C.FIRQuerySnapshot&gt;"
+                  moduleName = "Micah&apos;s Backpack"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonydu/Desktop/Micah&apos;s%20Backpack/Micah&apos;s%20Backpack/Firestore/EventManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "223"
+                  endingLineNumber = "223"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "966F0980-69F1-4A98-8DEE-53AFDF0D3DFE - bcced9f6cdf19a99"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for Micah_s_Backpack.EventManager.getAllUpdatedEvents() async throws -&gt; Swift.Optional&lt;__C.FIRQuerySnapshot&gt;"
+                  moduleName = "Micah&apos;s Backpack"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonydu/Desktop/Micah&apos;s%20Backpack/Micah&apos;s%20Backpack/Firestore/EventManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "223"
+                  endingLineNumber = "223"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "966F0980-69F1-4A98-8DEE-53AFDF0D3DFE - cdad306541a365ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Micah_s_Backpack.EventManager.getAllUpdatedEvents() async throws -&gt; Swift.Optional&lt;__C.FIRQuerySnapshot&gt;"
+                  moduleName = "Micah&apos;s Backpack"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonydu/Desktop/Micah&apos;s%20Backpack/Micah&apos;s%20Backpack/Firestore/EventManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "223"
+                  endingLineNumber = "223"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "966F0980-69F1-4A98-8DEE-53AFDF0D3DFE - 33e30d884cbec3a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Micah_s_Backpack.EventManager.getAllUpdatedEvents() async throws -&gt; Swift.Optional&lt;__C.FIRQuerySnapshot&gt;"
+                  moduleName = "Micah&apos;s Backpack"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonydu/Desktop/Micah&apos;s%20Backpack/Micah&apos;s%20Backpack/Firestore/EventManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "223"
+                  endingLineNumber = "223"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0D1B37D3-D931-4F68-9570-197C1D9A64C7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Micah&apos;s Backpack/Events/EventsView/EventsDetail/EventDetail.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
