@@ -1,6 +1,6 @@
 # Micah’s Backpack
 
-An iOS application that connects communities with nearby food banks, donation opportunities, and local events. Built with SwiftUI + Combine for a responsive frontend and Firebase (Firestore, Auth, Cloud Functions) for real-time, secure backend operations.
+An iOS application that connects communities in southwest Virginia with nearby food banks, donation opportunities, and local events. Built with SwiftUI + Combine for a responsive frontend and Firebase (Firestore, Auth, Cloud Functions) for real-time, secure backend operations. 
 
 ## 📱 Features
 - Nearby food banks: Interactive MapKit integration to display food banks and distribution centers.
