@@ -21,11 +21,11 @@ An iOS application that connects communities in southwest Virginia with nearby f
 - Featured on local news outlets for its community impact and accessibility.
 
 ## 📸 Screenshots
-<img width="200" height="630" alt="Screenshot 2025-10-02 at 7 56 21 PM" src="https://github.com/user-attachments/assets/4ff1aec9-ea7f-4d1f-bd3e-9d5b791fc045" />
-<img width="200" height="630" alt="Screenshot 2025-10-02 at 7 56 18 PM" src="https://github.com/user-attachments/assets/9ff80359-2f75-42cc-b58a-63576ecc3d9b" />
-<img width="200" height="630" alt="Screenshot 2025-10-02 at 7 56 14 PM" src="https://github.com/user-attachments/assets/e1320734-8d7c-4486-a2cc-7d28d6acab62" />
-<img width="200" height="630" alt="Screenshot 2025-10-02 at 7 56 11 PM" src="https://github.com/user-attachments/assets/a8041c5f-ecbe-4b3b-80b2-a1ca005bc28a" />
-<img width="200" height="630" alt="Screenshot 2025-10-02 at 7 56 07 PM" src="https://github.com/user-attachments/assets/b18ef68b-cf11-4797-a139-73cbe01d775d" />
+<img width="180" height="630" alt="Screenshot 2025-10-02 at 7 56 21 PM" src="https://github.com/user-attachments/assets/4ff1aec9-ea7f-4d1f-bd3e-9d5b791fc045" />
+<img width="180" height="630" alt="Screenshot 2025-10-02 at 7 56 18 PM" src="https://github.com/user-attachments/assets/9ff80359-2f75-42cc-b58a-63576ecc3d9b" />
+<img width="180" height="630" alt="Screenshot 2025-10-02 at 7 56 14 PM" src="https://github.com/user-attachments/assets/e1320734-8d7c-4486-a2cc-7d28d6acab62" />
+<img width="180" height="630" alt="Screenshot 2025-10-02 at 7 56 11 PM" src="https://github.com/user-attachments/assets/a8041c5f-ecbe-4b3b-80b2-a1ca005bc28a" />
+<img width="180" height="630" alt="Screenshot 2025-10-02 at 7 56 07 PM" src="https://github.com/user-attachments/assets/b18ef68b-cf11-4797-a139-73cbe01d775d" />
 
 ## Installation
 
