@@ -29,12 +29,12 @@ An iOS application that connects communities in southwest Virginia with nearby f
 
 ## 📦 Installation
 
-### Clone the repository
+### 1. Clone the repository
 ```bash
 git clone https://github.com/soilmilk/Micah-s-Backpack.git  
 ```
 
-### Open in Xcode
+### 2. Open in Xcode
 ```bash
 open Micah-s-Backpack.xcodeproj
 ```
