@@ -29,20 +29,20 @@ An iOS application that connects communities in southwest Virginia with nearby f
 
 ## Installation
 
-# Clone the repository
+### Clone the repository
 ```bash
 git clone https://github.com/soilmilk/Micah-s-Backpack.git  
 ```
 
-# Open in Xcode
+### Open in Xcode
 ```bash
 open Micah-s-Backpack.xcodeproj
 ```
-Setup
-	1.	Create a Firebase project in the Firebase Console. 
-	2.	Download your GoogleService-Info.plist and add it to the Xcode project.
-	3.	Build and run on a simulator or connected iOS device.
+## ⚙️ Setup
+1. Create a Firebase project in the Firebase Console. 
+2. Download your GoogleService-Info.plist and add it to the Xcode project.
+3. Build and run on a simulator or connected iOS device.
 
-# 👥 Contributors
+## 👥 Contributors
 - Anthony Du – iOS Development, Backend Integration, UI/UX Design
 - Community partners at Micah’s Backpack
