@@ -2,7 +2,7 @@
 
 An iOS application that connects communities in southwest Virginia with nearby food banks, donation opportunities, and local events. Built with SwiftUI + Combine for a responsive frontend and Firebase (Firestore, Auth, Cloud Functions) for real-time, secure backend operations. 
 
-## 📱 Features
+## 📱Features
 - **Nearby food banks:** Interactive MapKit integration to display food banks and distribution centers.
 - **Event management:** Users can view upcoming donation drives and community events.
 - **Inventory tracking:** Real-time Firebase Firestore database for managing food supplies.
@@ -27,7 +27,7 @@ An iOS application that connects communities in southwest Virginia with nearby f
 <img width="180" height="630" alt="Screenshot 2025-10-02 at 7 56 14 PM" src="https://github.com/user-attachments/assets/e1320734-8d7c-4486-a2cc-7d28d6acab62" />
 <img width="180" height="630" alt="Screenshot 2025-10-02 at 7 56 11 PM" src="https://github.com/user-attachments/assets/a8041c5f-ecbe-4b3b-80b2-a1ca005bc28a" />
 
-## Installation
+## 📦 Installation
 
 ### Clone the repository
 ```bash
